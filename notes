@@ -22,7 +22,7 @@ function Player(name) {
     // Here we're passing in name as an argument and
     // initialising a player with a name.
 }
-############################MATCHERS#####################################
+############################  MATCHERS  ###################################
 
 expect(x).toEqual(y); compares objects or primitives x and y and passes if they are equivalent
 
@@ -56,7 +56,7 @@ expect(x).not.toEqual(y); compares objects or primitives x and y and passes if t
 https://github.com/pivotal/jasmine/wiki/Matchers
 
 
-###############################TESTS######################################
+###############################  TESTS  ####################################
 
 5 Steps of good protocol Javascript testing with Jasmine
 
@@ -94,7 +94,24 @@ describe('', function (){
 }); 
 
 
-##################################################################
+##########################  JAVASCRIPT SYNTAX  ##############################
+
+
+JavaScript Functions are Objects
+In JavaScript, functions are objects.
+
+JavaScript functions have properties and methods.
+
+You can add your own properties and methods to functions.
+
+
+
+
+
+
+##########################   NODE   ################################
+
+
 
 Node:
 
@@ -138,7 +155,10 @@ the check is called a matcher
 For each suite, you can have a bajillion specs for the bajillion tests you want to do.
 
 
-GIT BRANCHING:
+############################  GIT BRANCHING: ########################
+
+http://longair.net/blog/2009/04/16/git-fetch-and-merge/
+
 
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 
